@@ -23,6 +23,8 @@
     "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
     "css-vars-ponyfill": "^1.17.2",
+    "firebase": "^6.0.4",
+    "firebase-admin": "^8.0.0",
     "flag-icon-css": "^3.3.0",
     "font-awesome": "^4.7.0",
     "perfect-scrollbar": "^1.4.0",
